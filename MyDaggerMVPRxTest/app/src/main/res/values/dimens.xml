@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--margins padding-->
+    <dimen name="height_footer_two_lines">68dp</dimen>
+    <dimen name="height_footer_one_line">48dp</dimen>
+    <dimen name="activity_double_margin">48dp</dimen>
+
+    <dimen name="paddingItemDecorationEdge">24dp</dimen>
+    <dimen name="activity_margin_content">24dp</dimen>
+    <dimen name="material_component_dialogs_padding_around_content_area">24dp</dimen>
+
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="material_component_cards_supporting_text_top_padding">16dp</dimen>
+
+    <dimen name="margin_padding_size_small">8dp</dimen>
+    <dimen name="activity_margin_half">8dp</dimen>
+    <dimen name="paddingItemDecorationDefault">8dp</dimen>
+
+    <dimen name="title_text_padding">5dp</dimen>
+    <dimen name="activity_margin_quarter">4dp</dimen>
+    <dimen name="margin_padding_size_3dp">3dp</dimen>
+
+    <!--text sizes-->
+    <dimen name="text_size_toolbar">19sp</dimen>
+
+    <dimen name="text_size_xxxsmall">10sp</dimen>
+    <dimen name="text_size_xxsmall">13sp</dimen>
+    <dimen name="text_size_xsmall">15sp</dimen>
+    <dimen name="text_size_small">16sp</dimen>
+
+    <dimen name="text_size_medium">17sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <dimen name="text_size_xxlarge">26sp</dimen>
+</resources>

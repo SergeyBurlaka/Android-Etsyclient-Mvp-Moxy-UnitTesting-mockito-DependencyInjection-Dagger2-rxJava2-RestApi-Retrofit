@@ -1,0 +1,101 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textViewStyle">@style/AppTheme.Widget.TextView</item>
+    </style>
+
+    <style name="AppTheme.Widget"/>
+
+    <!--fonts custom for App Theme-->
+
+    <style name="AppTheme.Widget.TextView" parent="android:Widget.Holo.Light.TextView">
+        <item name="fontPath">@string/app_fonts</item>
+    </style>
+
+    <!--fonts custom-->
+
+    <style name="TextViewCustomFont">
+        <item name="fontPath">@string/app_fonts</item>
+    </style>
+
+    <!--fonts custom for Text Appearance-->
+
+    <style name="TextAppearance.FontPath" parent="android:TextAppearance">
+        <item name="fontPath">@string/app_fonts</item>
+    </style>
+
+    <style name="CardViewStyle">
+        <item name="cardCornerRadius">7dp</item>
+        <item name="cardUseCompatPadding">true</item>
+        <item name="cardPreventCornerOverlap">true</item>
+        <item name="cardElevation">1dp</item>
+        <item name="android:translationZ" tools:targetApi="lollipop">0dp</item>
+    </style>
+
+    <style name="MainMenuCardContentStyle">
+        <item name="android:paddingEnd" tools:targetApi="jelly_bean_mr1">16dp</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingStart" tools:targetApi="jelly_bean_mr1">24dp</item>
+    </style>
+
+    <style name="XXSmallText">
+        <item name="android:textColor">@color/textDarkGrey</item>
+        <item name="android:textSize">@dimen/text_size_xxsmall</item>
+        <item name="android:textAppearance">@style/TextAppearance.FontPath</item>
+    </style>
+
+    <style name="GreySmallText">
+        <item name="android:textColor">@color/textGrey</item>
+        <item name="android:textSize">@dimen/text_size_xsmall</item>
+        <item name="android:textAppearance">@style/TextAppearance.FontPath</item>
+    </style>
+
+    <style name="AccentLargeText">
+        <item name="android:textColor">@color/textColorAccent</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textAppearance">@style/TextAppearance.FontPath</item>
+    </style>
+
+    <style name="AccentSmallText">
+        <item name="android:textColor">@color/textColorAccent</item>
+        <item name="android:textSize">@dimen/text_size_xxsmall</item>
+        <item name="android:textAppearance">@style/TextAppearance.FontPath</item>
+    </style>
+
+    <style name="BlueSmallText">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">@dimen/text_size_xxsmall</item>
+        <item name="android:textAppearance">@style/TextAppearance.FontPath</item>
+    </style>
+
+    <style name="GreyPinkSmallText">
+        <item name="android:textColor">@color/grey_pink_text_color</item>
+        <item name="android:textSize">@dimen/text_size_xsmall</item>
+        <item name="android:textAppearance">@style/TextAppearance.FontPath</item>
+    </style>
+
+    <style name="DarkXLargeText">
+        <item name="android:textColor">@color/textDarkGrey</item>
+        <item name="android:textSize">@dimen/text_size_xlarge</item>
+        <item name="android:textAppearance">@style/TextAppearance.FontPath</item>
+    </style>
+
+    <style name="DarkLargeText">
+        <item name="android:textColor">@color/textDarkGrey</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textAppearance">@style/TextAppearance.FontPath</item>
+    </style>
+
+    <style name="AccentButtonStyle">
+        <item name="android:background">@drawable/button_rounded_accent</item>
+        <item name="android:textColor">@color/textWhite</item>
+        <item name="android:textSize">@dimen/text_size_xxsmall</item>
+    </style>
+
+</resources>

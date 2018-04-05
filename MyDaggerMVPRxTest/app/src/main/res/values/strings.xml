@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">FindOnEtsy</string>
+
+    <!--Database name-->
+
+    <string name="db_name">ETSY-database</string>
+
+    <!--fonts-->
+
+    <string name="app_fonts">fonts/JazzBall.ttf</string>
+
+    <!--pagination item-->
+
+    <string name="tap_to_reload">Tap to reload</string>
+
+    <!--errors messages-->
+
+    <string name="connection_was_lost">Connection was lost</string>
+    <string name="error_api">Api Error</string>
+    <string name="api_exeption">no connection exception</string>
+    <string name="error_msg_unknown">An unexpected error occurred</string>
+
+    <!--data placeholder-->
+
+    <string name="tv_no_data"> No Data Yet</string>
+
+    <!--currency util-->
+
+    <string name="EURO">EUR</string>
+    <string name="USD">USD</string>
+    <string name="euro_symbol">€</string>
+    <string name="dollar_symbol">$</string>
+
+    <!--for utils-->
+
+    <string name="child_age" formatted="false">%s years old</string>
+    <string name="starting_index_pattern">^\\d+-?\\d+?\\s</string>
+    <string name="action_settings">Settings</string>
+
+    <!--product details fragment-->
+
+    <string name="product_detail">PRODUCT DETAIL</string>
+    <string name="product_title">Product title:</string>
+    <string name="user_data">Child Data:</string>
+    <string name="product_price">Price:</string>
+    <string name="product_description">Product Description:</string>
+    <string name="list_title">Product list</string>
+
+    <!--search fragment-->
+
+    <string name="submit_button">SUBMIT</string>
+    <string name="search_something_hint">Search something</string>
+    <string name="search_etsy">SEARCH IN ALL etsy</string>
+    <string name="title_search_choose_you_category">Choose one from all top Etsy categories:</string>
+    <string name="result_title">%1$d results for %2$s:</string>
+    <string name="no_results_holder">No results for %s.</string>
+    <string name="no_search_params_error">No search params</string>
+    <string name="no_keyword_faiil_load_result_message">Input some key word first, please</string>
+    <string name="save_product">Save Product</string>
+
+    <!--snack bar messages-->
+
+    <string name="success_base_operation_message">Success saved in favorite.</string>
+    <string name="remove_base_operation_message">Item was removed from favorite.</string>
+
+    <!--view pager in main screen-->
+
+    <string name="etsy_saerch_tab">Search on Etsy</string>
+    <string name="favorite_tab">Favorite Products</string>
+    <string name="search_product_result">SEARCH RESULT</string>
+    <string name="product_photo">product_photo</string>
+    <string name="full_size_product_image">full_size_product_image</string>
+    <string name="choose_category_title">Choose category:</string>
+    <string name="spinner_catgory_init_message">Loading category...</string>
+    <string name="button_title_detail_product">Delete from favorite</string>
+
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_alignParentTop="true"
+              android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/etsy_logo"
+            />
+
+        <org.angmarch.views.NiceSpinner
+            android:id="@+id/s_category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_margin="@dimen/activity_margin"
+            />
+
+    </FrameLayout>
+
+    <EditText
+        android:id="@+id/et_search_key_words"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_margin="@dimen/activity_margin"
+        android:hint="@string/search_something_hint"
+        android:textColorHint="@color/colorAccent"
+        />
+
+    <Button
+        android:id="@+id/b_submit"
+        style="@style/AccentButtonStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/activity_margin_content"
+        android:layout_marginTop="@dimen/material_component_cards_supporting_text_top_padding"
+        android:text="@string/submit_button"/>
+
+</LinearLayout>
+
+

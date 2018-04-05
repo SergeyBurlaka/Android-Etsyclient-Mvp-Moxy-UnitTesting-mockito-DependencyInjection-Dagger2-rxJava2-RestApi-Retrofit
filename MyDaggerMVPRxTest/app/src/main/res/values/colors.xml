@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--app them -->
+    <color name="colorPrimary">#F50057</color>
+    <color name="colorPrimaryDark">#F50057</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="search_background">@color/grey_transparent50</color>
+    <color name="product_list_background">@color/grey</color>
+    <color name="search_screen_background">@color/white</color>
+    <color name="check_box_background">@color/grey_transparent50</color>
+    <color name="spinner_background">@color/grey_dark</color>
+
+    <!--text colors-->
+    <color name="title_color">@color/black</color>
+    <color name="textWhite">@android:color/white</color>
+    <color name="textGrey50">@color/grey50</color>
+    <color name="textGrey">@color/grey</color>
+    <color name="textDarkGrey">@color/darkGrey</color>
+    <color name="link_red_text_color">#FF5555</color>
+    <color name="grey_pink_text_color">#fcb2b2</color>
+    <color name="textColorAccent">@color/colorAccent</color>
+
+    <!--divider-->
+    <color name="dividerColor">@color/grey</color>
+
+    <!--placeholder-->
+    <color name="placeholder_grey">#AAADC4</color>
+    <color name="placeholder_grey_20">#33AAADC4</color>
+    <color name="blue_button">@color/blue</color>
+
+    <!--Color Palette-->
+    <color name="lightBlue">#FF91D1FF</color>
+    <color name="blue">#FF52A3FF</color>
+    <color name="red">#FFFF3366</color>
+    <color name="md_yellow_A700">#FFD600</color>
+
+    <color name="white">#fafafa</color>
+    <color name="grey50">#88FFFFFF</color>
+    <color name="grey">#d1d1d1</color>
+    <color name="grey_transparent50">#79d1d1d1</color>
+    <color name="grey_dark">#b5606060</color>
+    <color name="black90">#90000000</color>
+    <color name="darkGrey">#363b4b</color>
+    <color name="black">#292C3A</color>
+</resources>
