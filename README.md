@@ -1,7 +1,7 @@
 
 [![License Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=true)](http://www.apache.org/licenses/LICENSE-2.0)
-![minSdkVersion 19](https://img.shields.io/badge/minSdkVersion-21-red.svg?style=true)
-![compileSdkVersion 25](https://img.shields.io/badge/compileSdkVersion-24-yellow.svg?style=true)
+![minSdkVersion 19](https://img.shields.io/badge/minSdkVersion-19-red.svg?style=true)
+![compileSdkVersion 25](https://img.shields.io/badge/compileSdkVersion-25-yellow.svg?style=true)
 
 # Simple and beautiful Etsy client via MVP
 a simple demo about MVP+Moxy+rxJava2+Dagger2+Retrofit2+UnitTest
