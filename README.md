@@ -26,7 +26,7 @@ Android SDK
 
 ### screenshots
 
-<img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-12-20%20Screenshot.jpg">
+![Screenshot] (https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-12-20%20Screenshot.jpg)
 
 <img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-14-27%20Screenshot.jpg">
 
