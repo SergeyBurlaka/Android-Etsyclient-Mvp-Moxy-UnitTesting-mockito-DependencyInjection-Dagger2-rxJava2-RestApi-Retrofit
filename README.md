@@ -3,10 +3,10 @@
 ![minSdkVersion 21](https://img.shields.io/badge/minSdkVersion-21-red.svg?style=true)
 ![compileSdkVersion 24](https://img.shields.io/badge/compileSdkVersion-24-yellow.svg?style=true)
 
-## Simple and beautiful Etsy client via MVP
+# Simple and beautiful Etsy client via MVP
 a simple demo about MVP+Moxy+rxJava2+Dagger2+Retrofit2+UnitTest
 
-### usage
+### Usage
 Android SDK
 [MVP](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
 [MOXY](https://github.com/Arello-Mobile/Moxy)
@@ -15,16 +15,16 @@ Android SDK
 [Retrofit2](https://github.com/square/retrofit/tree/master/retrofit/src/main/java/retrofit2)
 [Mockito](https://github.com/mockito/mockito)
 
-### source quicklink
+### Source quicklink
 [social viewer source](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/MyDaggerMVPRxTest/app/src/main/java/com/segeyburlaka/test/jellyworkz/mydaggermvprxtest)
 
-### test
+### Test
 [Etsy Client on line](https://appetize.io/app/0z1tfbjecqeybkuxm66rnkh1zc?device=nexus5&scale=75&orientation=portrait&osVersion=7.1) via appetize 
 
-### download apk
+### Download APK
 [APK from Github](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/APK)  
 
-### screenshots
+### ART
 <div>
 <img src ="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-12-20%20Screenshot.jpg" height="350" alt="Screenshot">
 <img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-14-27%20Screenshot.jpg" height="350" alt="Screenshot">
