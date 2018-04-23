@@ -8,11 +8,11 @@ a simple demo about MVP+Moxy+rxJava2+Dagger2+Retrofit2+UnitTest
 
 ### usage
 Android SDK, 
-[MVP](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
+[MVP](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)\n
 [MOXY](https://github.com/Arello-Mobile/Moxy)
-[Dagger2] (https://github.com/square/dagger)
-[rxJava2] (https://github.com/ReactiveX/RxJava)
-[Retrofit2] (https://github.com/square/retrofit/tree/master/retrofit/src/main/java/retrofit2)
+[Dagger2](https://github.com/square/dagger)
+[rxJava2](https://github.com/ReactiveX/RxJava)
+[Retrofit2](https://github.com/square/retrofit/tree/master/retrofit/src/main/java/retrofit2)
 [Mockito](https://github.com/mockito/mockito)
 
 ### source quicklink
