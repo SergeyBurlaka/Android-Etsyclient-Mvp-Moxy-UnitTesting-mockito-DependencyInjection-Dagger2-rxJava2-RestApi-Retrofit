@@ -3,23 +3,28 @@
 ![minSdkVersion 21](https://img.shields.io/badge/minSdkVersion-21-red.svg?style=true)
 ![compileSdkVersion 24](https://img.shields.io/badge/compileSdkVersion-24-yellow.svg?style=true)
 
-# Simple and Beautiful Etsy Client via MVP
+## simple and beautiful Etsy client via MVP
+a simple demo about MVP+Moxy+rxJava2+Dagger2+Retrofit2+UnitTest
 
+### usage
+Android SDK, 
+[MVP](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
+[MOXY](https://github.com/Arello-Mobile/Moxy)
+[Dagger2] https://github.com/square/dagger)
+[rxJava2] (https://github.com/ReactiveX/RxJava)
+[Retrofit2] (https://github.com/square/retrofit/tree/master/retrofit/src/main/java/retrofit2)
+[Mockito](https://github.com/mockito/mockito)
 
-### Download apk
-[APK from Github](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/APK)  
-
-### You can testing my app on line via appetize:
-https://appetize.io/app/0z1tfbjecqeybkuxm66rnkh1zc?device=nexus5&scale=75&orientation=portrait&osVersion=7.1
-
-### Technologies used to SocialViewer
-Android SDK, [MVP](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
-
-
-### Github source code quicklink
+### source quicklink
 [social viewer source](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/MyDaggerMVPRxTest/app/src/main/java/com/segeyburlaka/test/jellyworkz/mydaggermvprxtest)
 
-### Screenshots
+### test
+[Etsy Client on line] (https://appetize.io/app/0z1tfbjecqeybkuxm66rnkh1zc?device=nexus5&scale=75&orientation=portrait&osVersion=7.1)via appetize 
+
+### download apk
+[APK from Github](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/APK)  
+
+### screenshots
 
 <img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-12-20%20Screenshot.jpg">
 
