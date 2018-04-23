@@ -19,14 +19,12 @@ What is MVP (ModelViewPresenter)?
 - Model is a data access layer such as database API or remote server API.
 - Presenter is a layer that provides View with data from Model. Presenter also handles background tasks.
 
-### Source quicklink
-[social viewer source](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/MyDaggerMVPRxTest/app/src/main/java/com/segeyburlaka/test/jellyworkz/mydaggermvprxtest)
+### links
+[Source quicklink](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/MyDaggerMVPRxTest/app/src/main/java/com/segeyburlaka/test/jellyworkz/mydaggermvprxtest)
 
-### Test
-[Etsy Client on line](https://appetize.io/app/0z1tfbjecqeybkuxm66rnkh1zc?device=nexus5&scale=75&orientation=portrait&osVersion=7.1) via appetize 
+Test Etsy Client [on line](https://appetize.io/app/0z1tfbjecqeybkuxm66rnkh1zc?device=nexus5&scale=75&orientation=portrait&osVersion=7.1) via appetize 
 
-### Download APK
-[APK from Github](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/APK)  
+[Download APK](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/APK)  
 
 ### ART
 <div>
