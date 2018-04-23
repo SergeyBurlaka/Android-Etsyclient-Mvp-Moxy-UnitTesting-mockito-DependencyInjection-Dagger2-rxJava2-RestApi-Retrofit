@@ -6,14 +6,18 @@
 # Simple and beautiful Etsy client via MVP
 a simple demo about MVP+Moxy+rxJava2+Dagger2+Retrofit2+UnitTest
 
-### Usage
-Android SDK
-[MVP](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
+ Uses [MVP](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
 [MOXY](https://github.com/Arello-Mobile/Moxy)
 [Dagger2](https://github.com/square/dagger)
 [rxJava2](https://github.com/ReactiveX/RxJava)
 [Retrofit2](https://github.com/square/retrofit/tree/master/retrofit/src/main/java/retrofit2)
 [Mockito](https://github.com/mockito/mockito)
+
+What is MVP (ModelViewPresenter)?
+---------------------------
+- View is a layer that displays data and reacts to user actions. On Android, this could be an Activity, a Fragment, an android.view.View or a Dialog.
+- Model is a data access layer such as database API or remote server API.
+- Presenter is a layer that provides View with data from Model. Presenter also handles background tasks.
 
 ### Source quicklink
 [social viewer source](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/MyDaggerMVPRxTest/app/src/main/java/com/segeyburlaka/test/jellyworkz/mydaggermvprxtest)
