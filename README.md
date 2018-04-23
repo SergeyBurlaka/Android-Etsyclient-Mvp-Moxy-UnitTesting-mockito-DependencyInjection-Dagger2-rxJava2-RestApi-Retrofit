@@ -13,18 +13,18 @@ a simple demo about MVP+Moxy+rxJava2+Dagger2+Retrofit2+UnitTest
 [Retrofit2](https://github.com/square/retrofit/tree/master/retrofit/src/main/java/retrofit2)
 [Mockito](https://github.com/mockito/mockito)
 
-### What is MVP (ModelViewPresenter)?
+## What is MVP (ModelViewPresenter)?
 ---------------------------
 - View is a layer that displays data and reacts to user actions. On Android, this could be an Activity, a Fragment, an android.view.View or a Dialog.
 - Model is a data access layer such as database API or remote server API.
 - Presenter is a layer that provides View with data from Model. Presenter also handles background tasks.
 
-### LINKS
+## LINKS
 [Source quicklink](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/MyDaggerMVPRxTest/app/src/main/java/com/segeyburlaka/test/jellyworkz/mydaggermvprxtest),
 [Test EtsyClient on line](https://appetize.io/app/0z1tfbjecqeybkuxm66rnkh1zc?device=nexus5&scale=75&orientation=portrait&osVersion=7.1), 
 [Download APK](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/APK)  
 
-### ART
+## ART
 <div>
 <img src ="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-12-20%20Screenshot.jpg" height="350" alt="Screenshot">
 <img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-14-27%20Screenshot.jpg" height="350" alt="Screenshot">
