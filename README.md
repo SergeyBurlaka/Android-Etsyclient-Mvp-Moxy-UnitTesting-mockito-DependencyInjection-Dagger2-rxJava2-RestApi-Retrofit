@@ -20,11 +20,9 @@ What is MVP (ModelViewPresenter)?
 - Presenter is a layer that provides View with data from Model. Presenter also handles background tasks.
 
 ### links
-[Source quicklink](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/MyDaggerMVPRxTest/app/src/main/java/com/segeyburlaka/test/jellyworkz/mydaggermvprxtest)
-
-Test Etsy Client [on line](https://appetize.io/app/0z1tfbjecqeybkuxm66rnkh1zc?device=nexus5&scale=75&orientation=portrait&osVersion=7.1) via appetize 
-
-[Download APK](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/APK)  
+[source quicklink](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/MyDaggerMVPRxTest/app/src/main/java/com/segeyburlaka/test/jellyworkz/mydaggermvprxtest)
+[test EtsyClient on line](https://appetize.io/app/0z1tfbjecqeybkuxm66rnkh1zc?device=nexus5&scale=75&orientation=portrait&osVersion=7.1) via appetize 
+[download APK](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/APK)  
 
 ### ART
 <div>
