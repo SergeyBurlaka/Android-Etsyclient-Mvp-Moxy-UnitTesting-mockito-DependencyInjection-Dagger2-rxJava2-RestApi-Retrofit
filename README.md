@@ -26,9 +26,13 @@ Android SDK
 
 ### screenshots
 <div align="center">
-<img src ="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-12-20%20Screenshot.jpg" height="500" alt="Screenshot">
-<img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-14-27%20Screenshot.jpg" height="500" alt="Screenshot">
-<img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-15-18%20Screenshot.jpg" height="500" alt="Screenshot"/>
-  </div>
+<img src ="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-12-20%20Screenshot.jpg" height="700" alt="Screenshot">
+<img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-14-27%20Screenshot.jpg" height="700" alt="Screenshot">
 
-<img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-18-25%20Screenshot.jpg">
+  </div>
+<div align="center">
+  <img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-15-18%20Screenshot.jpg" height="700" alt="Screenshot"/>
+  
+<img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-18-25%20Screenshot.jpg" height="700" alt="Screenshot"/>
+  
+  </div>
