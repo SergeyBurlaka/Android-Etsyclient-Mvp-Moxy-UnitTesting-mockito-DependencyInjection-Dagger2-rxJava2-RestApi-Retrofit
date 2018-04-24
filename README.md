@@ -1,5 +1,8 @@
 
 [![License Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=true)](http://www.apache.org/licenses/LICENSE-2.0)
+
+[![Awesome Android](https://img.shields.io/badge/Awesome%20Android-Simple-EtsyClient-via-MVP.svg?style=flat)](https://android.libhunt.com/android-etsyclient-mvp-moxy-unittesting-mockito-dependencyinjection-dagger2-rxjava2-restapi-retrofit-alternatives)
+
 ![minSdkVersion 19](https://img.shields.io/badge/minSdkVersion-19-red.svg?style=true)
 ![compileSdkVersion 25](https://img.shields.io/badge/compileSdkVersion-25-yellow.svg?style=true)
 
