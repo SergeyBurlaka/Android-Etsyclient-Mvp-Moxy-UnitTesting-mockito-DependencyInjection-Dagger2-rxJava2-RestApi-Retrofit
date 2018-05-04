@@ -30,13 +30,13 @@ a simple demo about MVP+Moxy+rxJava2+Dagger2+Retrofit2+UnitTest
 - [download apk](https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/tree/master/APK)  
 
 ## ART
-
+<div class="center-block">
 <img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-14-19%20Screenshot.jpg" height="500" alt="Screenshot"/>
 
 <img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-14-27%20Screenshot.jpg" height="500" alt="Screenshot">
 
   <img src="https://github.com/SergeyBurlaka/Android-Etsyclient-Mvp-Moxy-UnitTesting-mockito-DependencyInjection-Dagger2-rxJava2-RestApi-Retrofit/blob/master/art/2017-10-30%2016-15-18%20Screenshot.jpg" height="500" alt="Screenshot"/>
-  
+  </div>
 
   
 
